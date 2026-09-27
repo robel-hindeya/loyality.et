@@ -1,0 +1,19 @@
+{
+  "name": "LoyaltyPass Digital Loyalty Card",
+  "short_name": "LoyaltyPass",
+  "description": "Your digital punch card - collect stamps and redeem rewards instantly at checkout.",
+  "start_url": "/dashboard/user",
+  "display": "standalone",
+  "background_color": "#0B0F19",
+  "theme_color": "#4F46E5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "shopping", "utilities"]
+}
